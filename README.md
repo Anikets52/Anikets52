@@ -59,8 +59,8 @@
 
 
 <div align="center" style="margin-bottom:2px">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anikets5&theme=2077"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anikets5&theme=2077"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anikets52&theme=2077"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anikets52&theme=2077"/>
 </div>
 
 <!-- Divider GIF -->
@@ -90,7 +90,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center" >
-<img height = "180em" width="350rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikets5&langs_count=5&theme=codeSTACKr&&hide_border=false&layout=compact"/>
+<img height = "180em" width="350rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikets52&langs_count=5&theme=codeSTACKr&&hide_border=false&layout=compact"/>
 <img height="200em" width="400rem" src="https://github-contributor-stats.vercel.app/api?username=Anikets52&limit=4&theme=codeSTACKr&&hide_border=false&layout=compact&combine_all_yearly_contributions=true"/>
 </div>
 
