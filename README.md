@@ -7,10 +7,7 @@
 <br>🌱 I’m currently learning about Laravel, Node and Docker-Sail.
 <br>💬 Ask me about HTML, Tailwind CSS, Jquery, PHP, Laravel, Docker Mysql. Basics about programming languages such as Python, Java, C, C++,C# etc.
 
-
 <!-- <br> -->
-
-<br>
 <br>
 <!-- # 💻 Tech Stack: -->
 <h1 align="center" class="heading-element" dir="auto">💻 Tech Stack:</h1>
