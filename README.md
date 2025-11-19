@@ -4,8 +4,8 @@
 <h1 align="center" class="heading-element">💫 About Me:</h1>
 
 🔭 I’m currently working on [Laravel Project1](https://github.com/Anikets52/LaraveL_Project1)
-🌱 I’m currently learning about Laravel, Node and Docker-Sail.
-💬 Ask me about HTML, Tailwind CSS, Jquery, PHP, Laravel, Docker Mysql. Basics about programming languages such as Python, Java, C, C++,C# etc.
+<br>🌱 I’m currently learning about Laravel, Node and Docker-Sail.
+<br>💬 Ask me about HTML, Tailwind CSS, Jquery, PHP, Laravel, Docker Mysql. Basics about programming languages such as Python, Java, C, C++,C# etc.
 
 
 <!-- <br> -->
