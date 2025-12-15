@@ -3,7 +3,7 @@
 <!-- # 💫 About Me: -->
 <h1 align="center" class="heading-element">💫 About Me:</h1>
 
-🔭 I’m currently working on [Kkosh](https://github.com/parasight-solutions/kkosh) and [Eureka](https://github.com/parasight-solutions/eureka)
+🔭 I’m currently working on [Kkosh](https://github.com/parasight-solutions/kkosh), [Eureka](https://github.com/parasight-solutions/eureka) and [EschoolPlus](https://github.com/Anikets52/Eschoolplus)
 <br>🌱 I’m currently learning about Laravel, Node and Docker-Sail.
 <br>💬 Ask me about HTML, Tailwind CSS, Jquery, PHP, Laravel, Docker Mysql. Basics about programming languages such as Python, Java, C, C++,C# etc.
 
